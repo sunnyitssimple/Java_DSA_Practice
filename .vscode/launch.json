@@ -1,0 +1,266 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MaxinArray",
+            "request": "launch",
+            "mainClass": "Topics.Arrays_and_Aaraylist.MaxinArray",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "SwapinArray",
+            "request": "launch",
+            "mainClass": "Topics.Arrays_and_Aaraylist.SwapinArray",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "multiAL",
+            "request": "launch",
+            "mainClass": "Topics.Arrays_and_Aaraylist.multiAL",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Arraylistexample",
+            "request": "launch",
+            "mainClass": "Topics.Arrays_and_Aaraylist.Arraylistexample",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "columnnotfixsize",
+            "request": "launch",
+            "mainClass": "Topics.Arrays_and_Aaraylist.columnnotfixsize",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "multidimentionalarray",
+            "request": "launch",
+            "mainClass": "Topics.Arrays_and_Aaraylist.multidimentionalarray",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "passinginfunctions",
+            "request": "launch",
+            "mainClass": "Topics.Arrays_and_Aaraylist.passinginfunctions",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment02.Armstrong",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Greeting",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment02.Greeting",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "INRtoUSD",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment02.INRtoUSD",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Simpleinterest",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment02.Simpleinterest",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "calculatorifelse",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment02.calculatorifelse",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "evenodd",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment02.evenodd",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment02.fibonacci",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "largerbetweentwo",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment02.largerbetweentwo",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment02.palindrome",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Basicjavaprograms",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.Basicjavaprograms",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "loops1",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.loops1",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "mulsumdif",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.mulsumdif",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P1",
+            "request": "launch",
+            "mainClass": "P1",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P10",
+            "request": "launch",
+            "mainClass": "P10",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P11",
+            "request": "launch",
+            "mainClass": "P11",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P12",
+            "request": "launch",
+            "mainClass": "P12",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P13",
+            "request": "launch",
+            "mainClass": "P13",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P14",
+            "request": "launch",
+            "mainClass": "P14",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P15",
+            "request": "launch",
+            "mainClass": "P15",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P16",
+            "request": "launch",
+            "mainClass": "P16",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P2",
+            "request": "launch",
+            "mainClass": "P2",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P3",
+            "request": "launch",
+            "mainClass": "P3",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P4",
+            "request": "launch",
+            "mainClass": "P4",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P5",
+            "request": "launch",
+            "mainClass": "P5",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P6",
+            "request": "launch",
+            "mainClass": "P6",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P7",
+            "request": "launch",
+            "mainClass": "P7",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P8",
+            "request": "launch",
+            "mainClass": "P8",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P9",
+            "request": "launch",
+            "mainClass": "P9",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "arraybasics",
+            "request": "launch",
+            "mainClass": "Topics.Arrays_and_Aaraylist.arraybasics",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        }
+    ]
+}
