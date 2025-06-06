@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "orderagnosticBS",
+            "request": "launch",
+            "mainClass": "Binary_search.orderagnosticBS",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "basicsbinarysearch",
+            "request": "launch",
+            "mainClass": "Binary_search.basicsbinarysearch",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "StringSearch",
+            "request": "launch",
+            "mainClass": "Linear_search.StringSearch",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "EvenDigits",
+            "request": "launch",
+            "mainClass": "Topics.Searching.EvenDigits",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Searchin2Darray",
+            "request": "launch",
+            "mainClass": "Topics.Searching.Searchin2Darray",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "StringSearch",
+            "request": "launch",
+            "mainClass": "Topics.Searching.StringSearch",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "linearsearch",
+            "request": "launch",
+            "mainClass": "Topics.Searching.linearsearch",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "input_till_0",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.input_till_0",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "factorall",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.factorall",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
             "name": "MaxinArray",
             "request": "launch",
             "mainClass": "Topics.Arrays_and_Aaraylist.MaxinArray",
