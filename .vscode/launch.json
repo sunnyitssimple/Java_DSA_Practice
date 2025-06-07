@@ -6,6 +6,146 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IntermediateLastProgram",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.IntermediateLastProgram",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "SunnyEvenDaysAugust",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.SunnyEvenDaysAugust",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "SumofDigits",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.SumofDigits",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "HCFAndLCM",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.HCFAndLCM",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.ReverseString",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "NcrNpr",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.NcrNpr",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "CompoundInterest",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.CompoundInterest",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "CGPAJavaProgram",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.CGPAJavaProgram",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "BattingAverage",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.BattingAverage",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "DepreciationofValue",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.DepreciationofValue",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "PowerInJava",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.PowerInJava",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "CommissionPercentage",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.CommissionPercentage",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "DistanceBetweenPoints",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.DistanceBetweenPoints",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "DiscountofProduct",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.DiscountofProduct",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "AverageofNNumbers",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.AverageofNNumbers",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "AverageOfNNumbers",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.AverageOfNNumbers",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Electricitybill",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.Electricitybill",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "electricitybill",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.electricitybill",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "ElectricityBill",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.ElectricityBill",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "Assignment.Assignment03.factorial",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
             "name": "orderagnosticBS",
             "request": "launch",
             "mainClass": "Binary_search.orderagnosticBS",
