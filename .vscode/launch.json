@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "selectionsortalgo",
+            "request": "launch",
+            "mainClass": "selectionsortalgo",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "bubblesortingalgorithm",
+            "request": "launch",
+            "mainClass": "bubblesortingalgorithm",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
             "name": "IntermediateLastProgram",
             "request": "launch",
             "mainClass": "Assignment.Assignment03.IntermediateLastProgram",
