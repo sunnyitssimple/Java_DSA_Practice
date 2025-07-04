@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cyclicsortingalgo",
+            "request": "launch",
+            "mainClass": "Cyclicsortingalgo",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "insertionsortalgo",
+            "request": "launch",
+            "mainClass": "insertionsortalgo",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
             "name": "selectionsortalgo",
             "request": "launch",
             "mainClass": "selectionsortalgo",
