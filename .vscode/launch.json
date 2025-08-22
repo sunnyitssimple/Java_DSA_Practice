@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringBuildr",
+            "request": "launch",
+            "mainClass": "StringBuildr",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Performance",
+            "request": "launch",
+            "mainClass": "Performance",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Operators",
+            "request": "launch",
+            "mainClass": "Operators",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "PrettyPrinting",
+            "request": "launch",
+            "mainClass": "PrettyPrinting",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "BasicsString",
+            "request": "launch",
+            "mainClass": "BasicsString",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "basicstring",
+            "request": "launch",
+            "mainClass": "basicstring",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "basicsstring",
+            "request": "launch",
+            "mainClass": "basicsstring",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "MaxMin",
+            "request": "launch",
+            "mainClass": "MaxMin",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
             "name": "Cyclicsortingalgo",
             "request": "launch",
             "mainClass": "Cyclicsortingalgo",
