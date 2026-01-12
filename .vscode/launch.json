@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fibonachhiii",
+            "request": "launch",
+            "mainClass": "fibonachhiii",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "basicrecursion",
+            "request": "launch",
+            "mainClass": "basicrecursion",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeInteger",
+            "request": "launch",
+            "mainClass": "PalindromeInteger",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberBetweenTwoNumbers",
+            "request": "launch",
+            "mainClass": "PrimeNumberBetweenTwoNumbers",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNNaturalNumbers",
+            "request": "launch",
+            "mainClass": "SumOfNNaturalNumbers",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "PythagoreanTripletOrNot",
+            "request": "launch",
+            "mainClass": "PythagoreanTripletOrNot",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeOrNot",
+            "request": "launch",
+            "mainClass": "PalindromeOrNot",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "PrimeOrNot",
+            "request": "launch",
+            "mainClass": "PrimeOrNot",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Circumferenceofcircle",
+            "request": "launch",
+            "mainClass": "Circumferenceofcircle",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "ProductOfTwoNumber",
+            "request": "launch",
+            "mainClass": "ProductOfTwoNumber",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "SumOfTwoNumbers",
+            "request": "launch",
+            "mainClass": "SumOfTwoNumbers",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "VoterEligibility",
+            "request": "launch",
+            "mainClass": "VoterEligibility",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "OddEven",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "BasicsPattern",
+            "request": "launch",
+            "mainClass": "Topics.Patten_Printing.BasicsPattern",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
             "name": "StringBuildr",
             "request": "launch",
             "mainClass": "StringBuildr",

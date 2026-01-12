@@ -7,5 +7,6 @@ public class StringBuildr {
             // its not creating new object only changing the object hence taking less space 
         }
         System.out.println(builder.toString());
+        System.out.println(builder.reverse());
     }
 }
