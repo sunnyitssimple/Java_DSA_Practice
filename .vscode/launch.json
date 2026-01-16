@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findunique",
+            "request": "launch",
+            "mainClass": "Topics.BasicMaths.findunique",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "evenodd",
+            "request": "launch",
+            "mainClass": "Topics.BasicMaths.evenodd",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "binarysearchbyrecursion",
+            "request": "launch",
+            "mainClass": "binarysearchbyrecursion",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
             "name": "fibonachhiii",
             "request": "launch",
             "mainClass": "fibonachhiii",
