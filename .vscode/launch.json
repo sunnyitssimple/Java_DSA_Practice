@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "numberofdigits",
+            "request": "launch",
+            "mainClass": "Topics.BasicMaths.numberofdigits",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "findingmagicnumber",
+            "request": "launch",
+            "mainClass": "Topics.BasicMaths.findingmagicnumber",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "FindUniqueTriplets",
+            "request": "launch",
+            "mainClass": "Topics.BasicMaths.FindUniqueTriplets",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "findunique3",
+            "request": "launch",
+            "mainClass": "Topics.BasicMaths.findunique3",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "findduniqueee2",
+            "request": "launch",
+            "mainClass": "Topics.BasicMaths.findduniqueee2",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
             "name": "findunique",
             "request": "launch",
             "mainClass": "Topics.BasicMaths.findunique",
