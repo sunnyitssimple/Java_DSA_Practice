@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "orderagnosticBS",
+            "request": "launch",
+            "mainClass": "Topics.Searching.Binarysearch.orderagnosticBS",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "hah",
+            "request": "launch",
+            "mainClass": "Topics.Searching.Binarysearch.hah",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "hah",
+            "request": "launch",
+            "mainClass": "Topics.Searching.Binary_search.hah",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "basicsbinarysearch",
+            "request": "launch",
+            "mainClass": "Topics.Searching.Binary_search.basicsbinarysearch",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "P16",
+            "request": "launch",
+            "mainClass": "Topics.Basics.P16",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
             "name": "GCD_LCM",
             "request": "launch",
             "mainClass": "Topics.BasicMaths.GCD_LCM",

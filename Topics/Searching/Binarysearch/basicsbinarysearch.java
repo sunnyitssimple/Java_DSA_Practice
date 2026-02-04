@@ -1,4 +1,4 @@
-package Binary_search;
+package Topics.Searching.Binary_search;
 
 public class basicsbinarysearch {
     public static void main(String[] args) {
