@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GCD_LCM",
+            "request": "launch",
+            "mainClass": "Topics.BasicMaths.GCD_LCM",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Factors",
+            "request": "launch",
+            "mainClass": "Topics.BasicMaths.Factors",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "SquareRootNR",
+            "request": "launch",
+            "mainClass": "Topics.BasicMaths.SquareRootNR",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchSQRT",
+            "request": "launch",
+            "mainClass": "Topics.BasicMaths.BinarySearchSQRT",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "seiveprime",
+            "request": "launch",
+            "mainClass": "Topics.BasicMaths.seiveprime",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
             "name": "numberofdigits",
             "request": "launch",
             "mainClass": "Topics.BasicMaths.numberofdigits",
