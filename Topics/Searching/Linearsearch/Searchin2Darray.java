@@ -1,4 +1,4 @@
-package Topics.Searching;
+package Topics.Searching.Linearsearch;
 
 import java.util.Arrays;
 

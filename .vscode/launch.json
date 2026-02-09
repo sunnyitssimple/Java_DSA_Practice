@@ -6,6 +6,132 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Findd",
+            "request": "launch",
+            "mainClass": "Arrays.Findd",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "RBS",
+            "request": "launch",
+            "mainClass": "RBS",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Findd",
+            "request": "launch",
+            "mainClass": "Findd",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Sorted",
+            "request": "launch",
+            "mainClass": "Sorted",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "CountZeros",
+            "request": "launch",
+            "mainClass": "CountZeros",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "DigitSum",
+            "request": "launch",
+            "mainClass": "DigitSum",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Fact",
+            "request": "launch",
+            "mainClass": "Fact",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "fact",
+            "request": "launch",
+            "mainClass": "fact",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "StringSearch",
+            "request": "launch",
+            "mainClass": "Topics.Searching.Linearsearch.StringSearch",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Searchin2Darray",
+            "request": "launch",
+            "mainClass": "Topics.Searching.Linearsearch.Searchin2Darray",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "linearsearch",
+            "request": "launch",
+            "mainClass": "Topics.Searching.Linearsearch.linearsearch",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "EvenDigits",
+            "request": "launch",
+            "mainClass": "Topics.Searching.Linearsearch.EvenDigits",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "basicsbinarysearch",
+            "request": "launch",
+            "mainClass": "Topics.Searching.Binarysearch.basicsbinarysearch",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "EasyExample",
+            "request": "launch",
+            "mainClass": "EasyExample",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Easy",
+            "request": "launch",
+            "mainClass": "Easy",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "easy",
+            "request": "launch",
+            "mainClass": "easy",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
             "name": "orderagnosticBS",
             "request": "launch",
             "mainClass": "Topics.Searching.Binarysearch.orderagnosticBS",
