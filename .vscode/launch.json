@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "Topics.Recurrsion.sorting.QuickSort",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "SortMergeinplace",
+            "request": "launch",
+            "mainClass": "Topics.Recurrsion.sorting.SortMergeinplace",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "Topics.Recurrsion.sorting.MergeSort",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "bubbble",
+            "request": "launch",
+            "mainClass": "Topics.Recurrsion.sorting.bubbble",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Selectionsortt",
+            "request": "launch",
+            "mainClass": "Topics.Recurrsion.pattern.Selectionsortt",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "bubbble",
+            "request": "launch",
+            "mainClass": "Topics.Recurrsion.pattern.bubbble",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Topics.Recurrsion.pattern.Triangle",
+            "projectName": "Java_DSA_Practice_be2cee9"
+        },
+        {
+            "type": "java",
             "name": "Findd",
             "request": "launch",
             "mainClass": "Arrays.Findd",
